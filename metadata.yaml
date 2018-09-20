@@ -1,5 +1,8 @@
 _repo: Wood-and-Stone-A-Romance_53157
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 53157-h/images/cover.jpg
 creator:
   author:
     agent_name: Powys, John Cowper
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4710
     wikipedia: http://en.wikipedia.org/wiki/John_Cowper_Powys
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53157#Wood-and-Stone-A-Romance
 gutenberg_issued: '2016-09-28'
 gutenberg_type: Text
 identifiers:
